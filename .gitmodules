@@ -1,0 +1,6 @@
+[submodule "ideasy_server"]
+	path = ideasy_server
+	url = git@github.com:Triabin/ideasy_server.git
+[submodule "ideasy_cli"]
+	path = ideasy_cli
+	url = git@github.com:Triabin/ideasy_cli.git
